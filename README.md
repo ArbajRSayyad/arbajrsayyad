@@ -1,16 +1,16 @@
 # 👋 Hi, I'm  Arbaj Riyaj Sayyad!
-### 🚀 Senior Database Engineer & Data Architect | 8+ Years Experience
+### 🚀 Senior Database Engineer | 8+ Years Experience
 
-I specialize in designing, developing, optimizing, and scaling high-performance database systems. My expertise lies in building real-time data processing modules, architecting bulk batch data pipelines for analytics, and successfully executing complex legacy-to-cloud migrations.
+I specialize in designing, developing, optimizing, and scaling high-performance database systems. My expertise lies in building real-time data processing modules, architecting bulk batch data pipelines for analytics, and successfully executing complex legacy-to-cloud migrations. Dedicated experience in developing database modules using PL/SQL and PL/pgSQL with hands-on experience in data warehousing using Snowflake.
 
 ---
 
 ### 💼 What I Do
-* ⚡ **Core Engine Performance:** Expert in writing highly optimized **Oracle PL/SQL** and **PostgreSQL PL/pgSQL** for mission-critical applications.
+* ⚡ **Core Engine Performance:** Expert in writing highly optimized **Oracle PL/SQL** and **PostgreSQL PL/pgSQL** code for mission-critical applications.
 * ☁️ **Cloud Migrations:** Proven track record of decomposing and migrating massive on-premise legacy Oracle codebases to cloud-hosted PostgreSQL environments.
-* ❄️ **Modern Data Warehousing:** Deep understanding of Big Data architectures and hands-on experience building scalable analytics solutions in **Snowflake**.
+* ❄️ **Modern Data Warehousing:** Deep understanding of data warehouse and lake architectures and hands-on experience building scalable analytics solutions in **Snowflake**.
 * 📊 **Data Scale:** Designing robust architectures for both ultra-fast transactional systems and high-throughput bulk batch loads.
-*  💳 **Fintech & Payments:** Deep understanding of payment processing workflows, ledger consistency, and financial transactional integrity.
+*  💳 **Fintech & Payments:** Command in payment processing workflows, ledger consistency, and financial transactional integrity.
 * 🛡️ **Data Security & Governance:** Proven leader in data privacy remediation, access control, and **PII data shielding/obfuscation** across transactional and analytical platforms.
 
 ---
@@ -22,8 +22,8 @@ I specialize in designing, developing, optimizing, and scaling high-performance 
 | **Databases** | Oracle, PostgreSQL|
 | **Procedural Languages** | PL/SQL, PL/pgSQL, SQL, Shell Scripting, Python |
 | **Data Warehousing & Big Data** | Snowflake |
-| **Cloud & Ecosystem** | AWS (S3,RDS,Database Migration Service), Autosys, CI/CD, Git |
-| **Methodologies** | Performance Tuning, Index Optimization, ETL/ELT Pipeline Design, Data Modeling |
+| **Cloud & Ecosystem** | AWS (S3,RDS,Database Migration Service, RBAC), Autosys, CI/CD, Git |
+| **Methodologies** | Performance Tuning, Index Optimization, ETL/ELT Pipeline Design, Data Modeling, BULK Loading |
 
 ---
 
