@@ -26,7 +26,7 @@ I specialize in designing, developing, optimizing, and scaling high-performance 
 ---
 
 ### 🤝 Connect with Me
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/arbaj-sayyad-089a66101)
-[![Email](https://shields.io)](mailto:arbajsayyad86@gmail.com)
+LinkedIn : https://www.linkedin.com/in/arbaj-sayyad-089a66101
+mailto : arbajsayyad86@gmail.com
 
 *💡 "In God we trust, all others must bring data (and an optimized query planner)."*
