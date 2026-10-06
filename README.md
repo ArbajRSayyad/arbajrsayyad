@@ -10,6 +10,8 @@ I specialize in designing, developing, optimizing, and scaling high-performance 
 * ☁️ **Cloud Migrations:** Proven track record of decomposing and migrating massive on-premise legacy Oracle codebases to cloud-hosted PostgreSQL environments.
 * ❄️ **Modern Data Warehousing:** Deep understanding of Big Data architectures and hands-on experience building scalable analytics solutions in **Snowflake**.
 * 📊 **Data Scale:** Designing robust architectures for both ultra-fast transactional systems and high-throughput bulk batch loads.
+*  💳 **Fintech & Payments:** Deep understanding of payment processing workflows, ledger consistency, and financial transactional integrity.
+* 🛡️ **Data Security & Governance:** Proven leader in data privacy remediation, access control, and **PII data shielding/obfuscation** across transactional and analytical platforms.
 
 ---
 
@@ -17,10 +19,10 @@ I specialize in designing, developing, optimizing, and scaling high-performance 
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Relational Databases** | Oracle Database, PostgreSQL|
-| **Procedural Languages** | PL/SQL, PL/pgSQL, SQL, Shell Scripting |
-| **Data Warehousing & Big Data** | Snowflake, Amazon Redshift |
-| **Cloud & Ecosystem** | AWS (S3,RDS,Aurora), CI/CD Git |
+| **Databases** | Oracle, PostgreSQL|
+| **Procedural Languages** | PL/SQL, PL/pgSQL, SQL, Shell Scripting, Python |
+| **Data Warehousing & Big Data** | Snowflake |
+| **Cloud & Ecosystem** | AWS (S3,RDS,Database Migration Service), Autosys, CI/CD, Git |
 | **Methodologies** | Performance Tuning, Index Optimization, ETL/ELT Pipeline Design, Data Modeling |
 
 ---
