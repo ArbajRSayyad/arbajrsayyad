@@ -25,12 +25,6 @@ I specialize in designing, developing, optimizing, and scaling high-performance 
 
 ---
 
-### 📈 GitHub Stats & Insights
-![Your GitHub Stats](https://vercel.app)
-![Top Languages](https://vercel.app)
-
----
-
 ### 🤝 Connect with Me
 [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/arbaj-sayyad-089a66101)
 [![Email](https://shields.io)](mailto:arbajsayyad86@gmail.com)
